@@ -1,0 +1,4 @@
+INFO: trace_level = 2, log entry made before function myfunc was called at: 02-02-2017_193431
+INFO: log entry made during function myfunc execution at: 02-02-2017_193431
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000657 seconds
+INFO: trace_level = 2, log entry made after function myfunc was called at: 02-02-2017_193431
