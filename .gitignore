@@ -1,0 +1,4 @@
+*.ini
+update_git.sh
+*.bak
+*.pyc
