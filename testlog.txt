@@ -1,4 +1,44 @@
-INFO: trace_level = 2, log entry made before function myfunc was called at: 02-02-2017_193431
-INFO: log entry made during function myfunc execution at: 02-02-2017_193431
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000657 seconds
-INFO: trace_level = 2, log entry made after function myfunc was called at: 02-02-2017_193431
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_170645
+INFO: log entry made during function myfunc execution at: 04-01-2019_170645
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.001408 seconds
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_170645
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_170945
+INFO: log entry made during function myfunc execution at: 04-01-2019_170945
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.00017 seconds
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_170945
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_171346
+INFO: log entry made during function myfunc execution at: 04-01-2019_171346
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000168 seconds
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_171948
+INFO: log entry made during function myfunc execution at: 04-01-2019_171948
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000173 seconds
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_172122
+INFO: log entry made during function myfunc execution at: 04-01-2019_172122
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000169 seconds
+INFO: number of arguments passed to function myfunc was 1 
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_172122
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_172409
+INFO: log entry made during function myfunc execution at: 04-01-2019_172409
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.001416 seconds
+INFO: number of arguments passed to function myfunc was 2 
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_172409
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_172607
+INFO: log entry made during function myfunc execution at: 04-01-2019_172607
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000171 seconds
+INFO: 2 arguments were passed to function myfunc 
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_172607
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_173026
+INFO: log entry made during function myfunc execution at: 04-01-2019_173026
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000191 seconds
+INFO: 2 arguments were passed to function myfunc 
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_173026
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_173309
+INFO: log entry made during function myfunc execution at: 04-01-2019_173309
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000234 seconds
+INFO: 2 arguments were passed to function myfunc 
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_173309
+INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_173436
+INFO: log entry made during function myfunc execution at: 04-01-2019_173436
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000163 seconds
+INFO: 2 arguments were passed to function myfunc: asdf qweqwr  
+INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_173436
