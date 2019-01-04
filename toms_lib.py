@@ -36,11 +36,20 @@ def logging_decorator (trace_level,log_file):
                 elapsed_time = str((t2 - t1).total_seconds())
                 update_file ("INFO: trace_level = %s, the time taken to execute function %s was %s seconds\n" % (str(trace_level),f.__name__,elapsed_time),log_file)
 
-		arg_string = ""
-		for arg in args:
-			arg_string = arg_string + arg + " "
+		if args is not None:
+			arg_string = ""
+			for arg in args:
+				arg_string = arg_string + arg + " "
 
-                update_file ("INFO: %d arguments were passed to function %s: %s \n" % (len(args),f.__name__,arg_string),log_file)
+                	update_file ("INFO: %d postional parameters were passed to function %s: %s \n" % (len(args),f.__name__,arg_string),log_file)
+
+
+		if kwargs is not None:
+		   	arg_string = ""
+        		for key, value in kwargs.iteritems():
+	            		arg_string = arg_string + key +  "=" + str(value) + " "
+
+               		update_file ("INFO: %d named parameters were passed to function %s: %s \n" % (len(kwargs),f.__name__,arg_string),log_file)
 
             if trace_level > 0:
                 datestr = get_date()
