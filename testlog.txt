@@ -1,55 +1,12 @@
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_174422
-INFO: log entry made during function myfunc execution at: 04-01-2019_174422
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000173 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_174422
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_174710
-INFO: log entry made during function myfunc execution at: 04-01-2019_174710
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000145 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_174710
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_174749
-INFO: log entry made during function myfunc execution at: 04-01-2019_174749
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_174814
-INFO: log entry made during function myfunc execution at: 04-01-2019_174814
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000275 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_174814
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175004
-INFO: log entry made during function myfunc execution at: 04-01-2019_175004
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000189 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: 2 name parameters were passed to function myfunc 
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_175004
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175258
-INFO: log entry made during function myfunc execution at: 04-01-2019_175258
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000221 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175337
-INFO: log entry made during function myfunc execution at: 04-01-2019_175337
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000181 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: 2 named parameters were passed to function myfunc 
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_175337
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175543
-INFO: log entry made during function myfunc execution at: 04-01-2019_175543
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000174 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175626
-INFO: log entry made during function myfunc execution at: 04-01-2019_175626
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000176 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: 2 named parameters were passed to function myfunc: y==12 x==10  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_175626
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_175844
-INFO: log entry made during function myfunc execution at: 04-01-2019_175844
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000159 seconds
+INFO: trace_level = 2, log entry made before function myfunc was called at: 07-01-2019_190840
+INFO: log entry made during function myfunc execution at: 07-01-2019_190840
+INFO: trace_level = 2, the time taken to execute function myfunc was 0.000167 seconds
 INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
 INFO: 2 named parameters were passed to function myfunc: y=12 x=10  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_175844
-INFO: trace_level = 2, log entry made before function myfunc was called at: 04-01-2019_180324
-INFO: log entry made during function myfunc execution at: 04-01-2019_180324
-INFO: trace_level = 2, the time taken to execute function myfunc was 0.000148 seconds
-INFO: 2 postional parameters were passed to function myfunc: asdf qweqwr  
-INFO: 2 named parameters were passed to function myfunc: y=12 x=10  
-INFO: trace_level = 2, log entry made after function myfunc was called at: 04-01-2019_180324
+INFO: trace_level = 2, log entry made after function myfunc was called at: 07-01-2019_190840
+INFO: trace_level = 2, log entry made before function myfunc2 was called at: 07-01-2019_190840
+INFO: log entry made during function myfunc execution at: 07-01-2019_190840
+INFO: trace_level = 2, the time taken to execute function myfunc2 was 0.000183 seconds
+INFO: 0 postional parameters were passed to function myfunc2:  
+INFO: 0 named parameters were passed to function myfunc2:  
+INFO: trace_level = 2, log entry made after function myfunc2 was called at: 07-01-2019_190840

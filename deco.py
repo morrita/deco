@@ -10,11 +10,26 @@ tracelevel = 2
 
 @logging_decorator(tracelevel,logfile)
 def myfunc(myarg1, myarg2, x, y):
-
     datestr = get_date()
     update_file ("INFO: log entry made during function myfunc execution at: %s\n" % (datestr),logfile)
-
     return "return values %s %s %d %d" % (myarg1, myarg2, x, y)
+
+
+
+
+@logging_decorator(tracelevel,logfile)
+def myfunc2():
+    datestr = get_date()
+    update_file ("INFO: log entry made during function myfunc execution at: %s\n" % (datestr),logfile)
+    return "func2"
+
+
+
 
 r = myfunc('asdf','qweqwr', x=10, y=12)
 print (r)
+
+
+
+p = myfunc2()
+print (p)
